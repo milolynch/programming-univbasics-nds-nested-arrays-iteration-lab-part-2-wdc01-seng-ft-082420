@@ -5,6 +5,7 @@ def find_min_in_nested_arrays(src)
   while row_i < src.count do
     ele_i = 0
     smalv = 100
+    row_i += 1
   end
   return new_ary
   
